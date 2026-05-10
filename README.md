@@ -51,7 +51,7 @@
     <header class="hero">
       <div class="eyebrow">Recuerdos con amor</div>
       <h1>Para Alejandra Moscoso Garate</h1>
-      <p class="sub">Ahora con mucho mas corazones y recuerdos giratorios, y que cada aventura con una dedicatoria especial escrita.</p>
+      <p class="sub">Ahora con mucho mas corazones y recuerdos giratorios, cada aventura con una dedicatoria especial escrita. No te olvides de colocar PLAY A LA CANCIÓN</p>
     </header>
 
     <section class="panel music-card">
