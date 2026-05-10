@@ -51,7 +51,7 @@
     <header class="hero">
       <div class="eyebrow">Recuerdos con amor</div>
       <h1>Para Alejandra Moscoso Garate</h1>
-      <p class="sub">Ahora con más corazones y seis recuerdos giratorios, cada uno con una dedicatoria especial escrita como si fuera una postal fina de papel.</p>
+      <p class="sub">Ahora con mucho mas corazones y recuerdos giratorios, y que cada aventura con una dedicatoria especial escrita.</p>
     </header>
 
     <section class="panel music-card">
@@ -78,7 +78,7 @@
 
     <section class="panel intro">
       <h3>Postales giratorias</h3>
-      <p>Presiona cada imagen para girarla. La parte de atrás tiene una dedicatoria distinta para Alejandra Moscoso Garate.</p>
+      <p>No olvides presionar cada imagen para girarla mi amorcito. La parte de atrás tiene una delicada leyenda para ti Alejandra Moscoso Garate.</p>
     </section>
 
     <section class="cards">
