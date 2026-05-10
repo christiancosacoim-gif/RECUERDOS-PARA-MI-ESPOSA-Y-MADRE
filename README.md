@@ -77,7 +77,7 @@
     </section>
 
     <section class="panel intro">
-      <h3>Postales giratorias</h3>
+      <h3>Postales</h3>
       <p>No olvides presionar cada imagen para girarla mi amorcito. La parte de atrás tiene una delicada leyenda para ti Alejandra Moscoso Garate.</p>
     </section>
 
