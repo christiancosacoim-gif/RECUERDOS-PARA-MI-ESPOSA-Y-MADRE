@@ -100,10 +100,4 @@
   </script>
 </body>
 </html>
-<img width="750" height="563" alt="514357" src="https://github.com/user-attachments/assets/51533e61-fdc7-4981-86fc-cca7d5243352" />
-<img width="750" height="563" alt="514353" src="https://github.com/user-attachments/assets/f7f2f41c-16b2-4507-a772-fc3c79f778f5" />
-<img width="563" height="750" alt="514263" src="https://github.com/user-attachments/assets/64de4b8b-d12a-40dc-9988-79c692edb7a2" />
-<img width="563" height="750" alt="514235" src="https://github.com/user-attachments/assets/c154cd93-fc31-40ed-925a-d65f7f3d70ae" />
-<img width="562" height="750" alt="512675" src="https://github.com/user-attachments/assets/3fdb2576-87be-40ba-af17-a26226faf0f4" />
-<img width="612" height="816" alt="505578" src="https://github.com/user-attachments/assets/8a8654ee-aba7-440f-926a-176d390b3630" />
 [La-mama-que-elegi-para-mis-hijos.mp3](https://github.com/user-attachments/files/27561989/La-mama-que-elegi-para-mis-hijos.mp3)
